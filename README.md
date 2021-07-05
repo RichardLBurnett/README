@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Richard L Burnett
 
 Prediction Of Passenger Demographics Using Uber Or Lyft Ridesharing
 
